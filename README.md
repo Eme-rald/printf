@@ -134,4 +134,4 @@ R : prints the rot13'ed string
 All the above options work well together.
 
 Authors:
-ADILI ADAEZE CHIOMA - adiliadaeze@gmail.com and CHARLES CHINEDU ONAH - charlesonah023@gmail.com 
+ADILI ADAEZE CHIOMA - adiliadaeze@gmail.com and CHARLES CHINEDU ONAH - charlesonah023@gmail.com
