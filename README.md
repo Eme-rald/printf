@@ -1,5 +1,6 @@
-printf
+# printf
 
+<<<<<<< HEAD
 0x11.c - First project collaboration
 
 OVERVIEW
@@ -135,3 +136,6 @@ All the above options work well together.
 
 Authors:
 ADILI ADAEZE CHIOMA - adiliadaeze@gmail.com and CHARLES CHINEDU ONAH - charlesonah023@gmail.com
+=======
+#DO HARD THINGS
+>>>>>>> 5a19ce717ebce9c59d6dce022ea38ace2a352f9d
